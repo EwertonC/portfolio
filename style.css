@@ -1,0 +1,22 @@
+h1 {
+    background-color: rgb(0, 48, 73);
+    color: white;
+}
+
+p {
+    color: white;
+    background-color: rgb(214, 40, 40);
+}
+
+img {
+    width: 200px;
+    
+}
+
+ul {
+    background-color: rgb(252, 191, 73);
+}
+
+body{
+    background-color: rgb(234,226,183);
+}
